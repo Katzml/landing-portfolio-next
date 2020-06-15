@@ -1,6 +1,6 @@
 //@ts-nocheck
 import Layout from '../components/Layout'
-function HomePage() {
+function Index() {
     return (
         
         
@@ -13,4 +13,4 @@ function HomePage() {
     )
   }
   
-  export default HomePage
+  export default Index
