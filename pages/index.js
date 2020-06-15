@@ -6,7 +6,7 @@ function Index() {
         
         <Layout>
             <div>
-                <h4>skdafjkl</h4>
+                <h1 className="title is-1">Inicio</h1>
             </div>
         </Layout>
         

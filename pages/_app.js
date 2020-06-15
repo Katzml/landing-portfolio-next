@@ -1,5 +1,5 @@
 //@ts-nocheck
-import 'bulma/css/bulma.css'
+import '../public/custom.sass'
 
 const MyApp = ({Component, pageProps}) => {
     return (<Component {...pageProps} /> );
